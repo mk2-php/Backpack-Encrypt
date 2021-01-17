@@ -1,5 +1,5 @@
 {
-	"name":"mk2/encrypt_backpack",
+	"name":"mk2/backpack_encrypt",
 	"description": "Next PHP Framework 'mark2' EncryptBackpack packeage.",
 	"type": "library",
 	"license": "MIT",
@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"mk2\\encrypt_backpack\\":"src/"
+			"mk2\\backpack_encrypt\\":"src/"
 		}
 	}
 }
