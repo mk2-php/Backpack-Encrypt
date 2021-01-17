@@ -1,9 +1,8 @@
 <?php
 
-namespace App\Backpack;
+namespace mk2\backpack_encryptrsa;
 
 use Mk2\Libraries\Backpack;
-use App\Backpack\EncryptBackpack;
 
 class EncryptRsaBackpack extends EncryptBackpack{
 
