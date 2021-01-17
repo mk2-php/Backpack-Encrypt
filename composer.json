@@ -1,0 +1,22 @@
+{
+	"name":"mk2/backpack-encrypt",
+	"description": "Next PHP Framework 'mark2' Encrypt-Backpack packeage.",
+	"type": "library",
+	"license": "MIT",
+	"homepage":"https://www.mk2-php.com/",
+	"authors": [{
+		"name": "Nakajima Satoru"
+	}],
+	"keywords": ["PHP","php","Framework","framework","mark2","Web","backpack","encrypt"],
+	"require": {
+		"php": ">=5.4.0",
+		"mk2/libraries":"dev-master",
+		"mk2/orm":"dev-master",
+		"mk2/validator":"dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"mk2\\backpack-encrypt\\":"src/"
+		}
+	}
+}
