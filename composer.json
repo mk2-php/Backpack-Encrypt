@@ -9,10 +9,7 @@
 	}],
 	"keywords": ["PHP","php","Framework","framework","mark2","Web","backpack","encrypt"],
 	"require": {
-		"php": ">=5.4.0",
-		"mk2/libraries":"dev-master",
-		"mk2/orm":"dev-master",
-		"mk2/validator":"dev-master"
+		"php": ">=5.4.0"
 	},
 	"autoload": {
 		"psr-4": {
