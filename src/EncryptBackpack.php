@@ -1,5 +1,22 @@
 <?php
 
+/**
+ * ===================================================
+ * 
+ * PHP Framework "Mk2"
+ *
+ * EncryptBackpack
+ * 
+ * Backpack class base file.
+ * 
+ * URL : https://www.mk2-php.com/
+ * 
+ * Copylight : Nakajima-Satoru 2021.
+ *           : Sakaguchiya Co. Ltd. (https://www.teastalk.jp/)
+ * 
+ * ===================================================
+ */
+
 namespace mk2\backpack_encrypt;
 
 use Mk2\Libraries\Backpack;
